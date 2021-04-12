@@ -6,10 +6,14 @@
 
 💖 Además, realizo **apuntes a mano** sobre algunas tecnologías que estuve aprendiendo.
  Los comparto en [Los Apuntes de Majo](http://losapuntesdemajo.now.sh).
+ 
+🕵 Intenté aprender: Pyhton, JavaScript, CSS.
 
 🍏 Me gusta el diseño en general y trato de incorporarlo de alguna manera en todo lo que hago.
 
-👩🏻 Entre mis hobbies se encuentran: pintar macetas, crear playlist de Spotify, mirar torneos de surf y leer.
+👩🏻 Entre mis hobbies se encuentran: pintar macetas, crear playlist de Spotify, mirar torneos de surf, dibujar en CSS y leer.
+
+
 
 
 ### 🖤 Get in touch: 
