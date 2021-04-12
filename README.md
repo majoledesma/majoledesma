@@ -9,13 +9,16 @@
 
 🍏 Me gusta el diseño en general y trato de incorporarlo de alguna manera en todo lo que hago.
 
-👩🏻 Entre mis hobbies se encuentran: pintar macetas, crear playlist de Spotify y leer.
+👩🏻 Entre mis hobbies se encuentran: pintar macetas, crear playlist de Spotify, mirar torneos de surf y leer.
 
 
 ### 🖤 Get in touch: 
 * Twitter: https://twitter.com/MajoLedes
 * Los apuntes de Majo: https://losapuntesdemajo.now.sh
+* Instagram: https://instagram.com/majoledes
 
+
+![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
 
 
