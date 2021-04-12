@@ -1,8 +1,16 @@
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
 ### Hi! 👋🏼 soy Majo. Quiero ser iOS developer algún día.😄 
-Actualmente estoy estudiando para serlo. Además, realizo **apuntes a mano** sobre algunas tecnologías que estuve aprendiendo.
-💖 Los comparto en [Los Apuntes de Majo](http://losapuntesdemajo.now.sh)
+
+💪🏼 Actualmente estoy estudiando para serlo: Swift.
+
+💖 Además, realizo **apuntes a mano** sobre algunas tecnologías que estuve aprendiendo.
+ Los comparto en [Los Apuntes de Majo](http://losapuntesdemajo.now.sh).
+
+🍏 Me gusta el diseño en general y trato de incorporarlo de alguna manera en todo lo que hago.
+
+👩🏻 Entre mis hobbies se encuentran: pintar macetas, crear playlist de Spotify y leer.
+
 
 ### 🖤 Get in touch: 
 * Twitter: https://twitter.com/MajoLedes
