@@ -1,8 +1,9 @@
-![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
+![Rectángulo 1](https://user-images.githubusercontent.com/55170175/114485178-dba67c00-9be1-11eb-94c8-2ef94f5fb719.png)
 
 # Hi! 👋🏼 soy Majo. 
 
 ###  Voy a ser iOS developer algún día. 
+
 
 💪🏼 Actualmente estoy estudiando para serlo: **Swift**.
 
