@@ -2,12 +2,6 @@
 
 # Hi! 👋🏼 soy Majo. 
 
-<p align="right">
-<a href="https://codepen.io/majoledesma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="majoledesma" height="30" width="40" /></a>
-<a href="https://twitter.com/majoledes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="majoledes" height="30" width="40" /></a>
-<a href="https://instagram.com/majoledes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="majoledes" height="30" width="40" /></a>
-</p>
-
 ### Quiero ser iOS developer algún día.😄 
 
 💪🏼 Actualmente estoy estudiando para serlo: Swift.
