@@ -2,7 +2,7 @@
 
 # Hi! 👋🏼 soy Majo. 
 
-### Quiero ser iOS developer algún día.😄 
+###  Voy a ser iOS developer algún día. 
 
 💪🏼 Actualmente estoy estudiando para serlo: **Swift**.
 
