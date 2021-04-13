@@ -9,7 +9,13 @@
 💖 Además, realizo **apuntes a mano** sobre algunas tecnologías que estuve aprendiendo.
  Los comparto en [Los Apuntes de Majo](http://losapuntesdemajo.now.sh).
  
-🕵 Intenté aprender: Pyhton, JavaScript, CSS.
+🕵 Intenté aprender: 
+
+* HTML
+* CSS
+* JavaScript
+* Python
+* Swift
 
 🍏 Me gusta el diseño en general y trato de incorporarlo de alguna manera en todo lo que hago.
 
