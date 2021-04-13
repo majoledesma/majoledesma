@@ -4,7 +4,7 @@
 
 ### Quiero ser iOS developer algún día.😄 
 
-💪🏼 Actualmente estoy estudiando para serlo: Swift.
+💪🏼 Actualmente estoy estudiando para serlo: ![image](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 💖 Además, realizo **apuntes a mano** sobre algunas tecnologías que estuve aprendiendo.
  Los comparto en [Los Apuntes de Majo](http://losapuntesdemajo.now.sh).
