@@ -7,12 +7,12 @@
 ###  Voy a ser iOS developer algún día. 
 --> EU! Ya lo soy. 🙈
 
-💪🏼 Actualmente estoy estudiando para serlo: **Swift**.
+💪🏼 Actualmente estoy estudiando para seguir siéndolo: **Swift**.
 
 🕵 Intenté aprender diferentes lenguajes y herramientas, entre ellos: 
 * HTML
 * CSS
-* JavaScript
+* JavaScript 
 * Python
 * Framer / Adobe XD
 
