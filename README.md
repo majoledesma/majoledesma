@@ -5,7 +5,7 @@
 # Hi! 👋🏼 soy Majo. 
 
 ###  Voy a ser iOS developer algún día. 
-
+--> EU! Ya lo soy. 🙈
 
 💪🏼 Actualmente estoy estudiando para serlo: **Swift**.
 
@@ -21,7 +21,7 @@
  
 🌸 Me gusta el diseño en general y trato de incorporarlo de alguna manera en todo lo que hago.
 
-👩🏻 Entre mis hobbies se encuentran: pintar macetas, crear playlist de Spotify, mirar torneos de surf, dibujar en CSS y leer.
+👩🏻 Entre mis hobbies se encuentran: pintar macetas, crear playlist de Spotify, mirar torneos de surf, dibujar en CSS, leer biografías, sobre cosmología y básquet.
 
 
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
