@@ -3,7 +3,7 @@
 # Hi! 👋🏼 soy Majo. 
 ### iOS Developer
 ![14](https://user-images.githubusercontent.com/55170175/183471447-76763cc2-559d-4dd2-99fd-c83985c3aa6a.png)
-![Diseño sin título (1)](https://user-images.githubusercontent.com/55170175/183476660-1af27c4c-a5e6-4da7-8690-2b797ab29f63.png)
+
 Estas son algunas de los lenguajes o herramientas que me interesaron a lo largo de mi aprendizaje:
 * Swift
 * HTML
@@ -19,11 +19,11 @@ Estas son algunas de los lenguajes o herramientas que me interesaron a lo largo 
 
 🪄 Entre mis hobbies se encuentran: pintar macetas, crear playlist de Spotify, mirar torneos de surf, dibujar en CSS, leer biografías, sobre cosmología y básquet. 
 
-![Diseño sin título (1)](https://user-images.githubusercontent.com/55170175/183476660-1af27c4c-a5e6-4da7-8690-2b797ab29f63.png)
+![! Diseño sin título (1) (httpsuser-images githubusercontent com55170175183476660-1af27c4c-a5e6-4da7-8690-2b797ab29f63 png)](https://user-images.githubusercontent.com/55170175/183477301-f5e949bb-f556-4173-b86f-26dc7e0eb137.png)
 
 ![Majo's GitHub stats](https://github-readme-stats.vercel.app/api?username=majoledesma&hide=contribs,prs&theme=buefy&show_icons=true)
 
-![Diseño sin título (1)](https://user-images.githubusercontent.com/55170175/183476660-1af27c4c-a5e6-4da7-8690-2b797ab29f63.png)
+![! Diseño sin título (1) (httpsuser-images githubusercontent com55170175183476660-1af27c4c-a5e6-4da7-8690-2b797ab29f63 png)](https://user-images.githubusercontent.com/55170175/183477301-f5e949bb-f556-4173-b86f-26dc7e0eb137.png)
 
 ## 🖤 Get in touch:
 * 🧚🏼Twitter: https://twitter.com/MajoLedes
