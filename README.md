@@ -1,6 +1,6 @@
 
 
-# Hi! 👋🏼 soy Majo. 
+# Hola! 👋🏼 soy Majo. 
 ### iOS Developer
 ![14](https://user-images.githubusercontent.com/55170175/183471447-76763cc2-559d-4dd2-99fd-c83985c3aa6a.png)
 
