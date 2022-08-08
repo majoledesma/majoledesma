@@ -32,7 +32,8 @@
 
 ## 🖤 Get in touch:
 * ✨ Twitter: https://twitter.com/MajoLedes
-* ✨ Instagram: https://instagram.com/majoledes
+* ✨ Instagram: https://instagram.com/los.apuntesdemajo
 * ✨ CodePen: https://codepen.io/majoledesma
+* ✨ Instagram Personal: https://instagram.com/majoledes
 <!--
 **majoledesma/majoledesma** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
