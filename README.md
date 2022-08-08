@@ -20,7 +20,7 @@
 
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
-![Majo's GitHub stats](https://github-readme-stats.vercel.app/api?username=majoledesma&hide=contribs,prs&theme=buefy&show_icons=true) ![icon-bear](https://user-images.githubusercontent.com/55170175/183471732-46bfa69f-ea35-463c-8210-beb16cf15cec.png)
+![Majo's GitHub stats](https://github-readme-stats.vercel.app/api?username=majoledesma&hide=contribs,prs&theme=buefy&show_icons=true)
 
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
@@ -30,5 +30,7 @@
 * 🧚🏼Instagram: https://instagram.com/los.apuntesdemajo
 * 🧚🏼CodePen: https://codepen.io/majoledesma
 * 🧚🏼Instagram Personal: https://instagram.com/majoledes
+
+![icon-bear](https://user-images.githubusercontent.com/55170175/183471732-46bfa69f-ea35-463c-8210-beb16cf15cec.png)
 <!--
 **majoledesma/majoledesma** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
