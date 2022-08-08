@@ -19,7 +19,7 @@ Estas son algunas de los lenguajes o herramientas que me interesaron a lo largo 
 
 🪄 Entre mis hobbies se encuentran: pintar macetas, crear playlist de Spotify, mirar torneos de surf, dibujar en CSS, leer biografías, sobre cosmología y básquet. 
 
-![Diseño sin título (1)](https://user-images.githubusercontent.com/55170175/183475296-47c49a59-6086-4d33-b609-eff7de0d0029.png)
+![Diseño sin título (2)](https://user-images.githubusercontent.com/55170175/183476299-3afe5bdd-5240-4bad-ab36-6647887ceedd.png)
 
 ![Majo's GitHub stats](https://github-readme-stats.vercel.app/api?username=majoledesma&hide=contribs,prs&theme=buefy&show_icons=true)
 
