@@ -14,7 +14,6 @@
 
 💖 Además, realizo **apuntes a mano** sobre algunas tecnologías que estuve aprendiendo.
  Los comparto en [Los Apuntes de Majo](http://losapuntesdemajo.now.sh). 
- <img width="1314" alt="ApuntesPage" src="https://user-images.githubusercontent.com/55170175/183470103-2aaedabe-dce7-425e-b553-fbb8507d1aec.png">
 
 🌸 Me gusta el diseño en general y trato de incorporarlo de alguna manera en todo lo que hago.
 
@@ -28,9 +27,9 @@
 
 
 ## 🖤 Get in touch:
-* ✨ Twitter: https://twitter.com/MajoLedes
-* ✨ Instagram: https://instagram.com/los.apuntesdemajo
-* ✨ CodePen: https://codepen.io/majoledesma
-* ✨ Instagram Personal: https://instagram.com/majoledes
+* 🧚🏼Twitter: https://twitter.com/MajoLedes
+* 🧚🏼Instagram: https://instagram.com/los.apuntesdemajo
+* 🧚🏼CodePen: https://codepen.io/majoledesma
+* 🧚🏼Instagram Personal: https://instagram.com/majoledes
 <!--
 **majoledesma/majoledesma** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
