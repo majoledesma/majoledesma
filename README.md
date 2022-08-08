@@ -1,7 +1,7 @@
 
 
 # Hi! 👋🏼 soy Majo. 
-![icon-tulips](https://user-images.githubusercontent.com/55170175/183471588-1aa505c4-3f3e-4974-bdbf-f73a7d031be7.png) ### iOS Developer
+### iOS Developer
 ![14](https://user-images.githubusercontent.com/55170175/183471447-76763cc2-559d-4dd2-99fd-c83985c3aa6a.png)
 
 🕵 Intenté aprender diferentes lenguajes y herramientas, entre ellos: 
@@ -20,7 +20,7 @@
 
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
-![Majo's GitHub stats](https://github-readme-stats.vercel.app/api?username=majoledesma&hide=contribs,prs&theme=buefy&show_icons=true) 
+![Majo's GitHub stats](https://github-readme-stats.vercel.app/api?username=majoledesma&hide=contribs,prs&theme=buefy&show_icons=true) ![icon-bear](https://user-images.githubusercontent.com/55170175/183471732-46bfa69f-ea35-463c-8210-beb16cf15cec.png)
 
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
