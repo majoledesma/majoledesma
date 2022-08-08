@@ -14,7 +14,8 @@
 
 💖 Además, realizo **apuntes a mano** sobre algunas tecnologías que estuve aprendiendo.
  Los comparto en [Los Apuntes de Majo](http://losapuntesdemajo.now.sh). 
- 
+ <img width="1314" alt="ApuntesPage" src="https://user-images.githubusercontent.com/55170175/183470103-2aaedabe-dce7-425e-b553-fbb8507d1aec.png">
+
 🌸 Me gusta el diseño en general y trato de incorporarlo de alguna manera en todo lo que hago.
 
 👩🏻 Entre mis hobbies se encuentran: pintar macetas, crear playlist de Spotify, mirar torneos de surf, dibujar en CSS, leer biografías, sobre cosmología y básquet. 
