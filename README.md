@@ -13,7 +13,6 @@
 * JS/ React
 * Framer / Adobe XD
 
-![11](https://user-images.githubusercontent.com/55170175/183468545-dc6a24bd-f477-47de-98e5-e4c46f727a0e.png)
 💖 Además, realizo **apuntes a mano** sobre algunas tecnologías que estuve aprendiendo.
  Los comparto en [Los Apuntes de Majo](http://losapuntesdemajo.now.sh). 
  
