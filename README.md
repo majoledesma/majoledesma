@@ -10,8 +10,7 @@
 * Swift
 * HTML
 * CSS
-* JavaScript 
-* Python
+* JS/ React
 * Framer / Adobe XD
 
 💖 Además, realizo **apuntes a mano** sobre algunas tecnologías que estuve aprendiendo.
