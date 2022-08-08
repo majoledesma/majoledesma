@@ -4,12 +4,10 @@
 
 # Hi! 👋🏼 soy Majo. 
 
-###  Voy a ser iOS developer algún día. 
---> EU! Ya lo soy. 🙈
-
-💪🏼 Actualmente estoy estudiando para seguir siéndolo: **Swift**.
+###iOS developer
 
 🕵 Intenté aprender diferentes lenguajes y herramientas, entre ellos: 
+* Swift
 * HTML
 * CSS
 * JavaScript 
