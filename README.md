@@ -13,6 +13,7 @@
 * JS/ React
 * Framer / Adobe XD
 
+![11](https://user-images.githubusercontent.com/55170175/183468545-dc6a24bd-f477-47de-98e5-e4c46f727a0e.png)
 💖 Además, realizo **apuntes a mano** sobre algunas tecnologías que estuve aprendiendo.
  Los comparto en [Los Apuntes de Majo](http://losapuntesdemajo.now.sh). 
  
@@ -22,7 +23,6 @@
 
 
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
-
 
 
 ![Majo's GitHub stats](https://github-readme-stats.vercel.app/api?username=majoledesma&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majoledesma&layout=compact&theme=buefy)](https://github.com/majoledesma/github-readme-stats)
