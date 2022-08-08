@@ -4,7 +4,7 @@
 
 # Hi! 👋🏼 soy Majo. 
 
-###iOS developer
+### iOS developer
 
 🕵 Intenté aprender diferentes lenguajes y herramientas, entre ellos: 
 * Swift
