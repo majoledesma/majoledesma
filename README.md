@@ -1,9 +1,8 @@
 
 
 # Hi! 👋🏼 soy Majo. 
-
-### iOS Developer
-![13](https://user-images.githubusercontent.com/55170175/183471242-9bbcaba8-ffb4-4f41-a3f6-e3949db5f2a2.png)
+![icon-tulips](https://user-images.githubusercontent.com/55170175/183471588-1aa505c4-3f3e-4974-bdbf-f73a7d031be7.png) ### iOS Developer
+![14](https://user-images.githubusercontent.com/55170175/183471447-76763cc2-559d-4dd2-99fd-c83985c3aa6a.png)
 
 🕵 Intenté aprender diferentes lenguajes y herramientas, entre ellos: 
 * Swift
