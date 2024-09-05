@@ -1,34 +1,66 @@
 
 
-# Hola! 👋🏼 soy Majo. 
-### iOS Developer
-![14](https://user-images.githubusercontent.com/55170175/183471447-76763cc2-559d-4dd2-99fd-c83985c3aa6a.png)
+# Hi, I'm Majo! 👋🏼
 
-Estas son algunas de los lenguajes o herramientas que me interesaron a lo largo de mi aprendizaje:
-* Swift
-* HTML
-* CSS
-* JS/ React
-* Framer / Adobe XD
+### About
+
+I'm a software developer with over 3 years of experience focusing on iOS development. I have worked extensively with UIKit and am currently learning SwiftUI. I am familiar with backend-driven UI and have a solid foundation in iOS native development using Swift. In addition to my iOS expertise, I also have experience as a web developer, particularly with Styled Components and React. This has allowed me to develop a well-rounded understanding of both mobile and web development and effectively apply best practices across different platforms.
+
+I have a strong inclination towards design and visual styling, which enhances my ability to create aesthetically pleasing and user-friendly applications. My design skills include working with principles of visual hierarchy, color theory, and typography to ensure that user interfaces are not only functional but also visually appealing.
 
 
-🧞‍♀️ Además, realizo **apuntes a mano** sobre algunas tecnologías que estuve aprendiendo. Los comparto en [Los Apuntes de Majo](http://losapuntesdemajo.now.sh). 
- Además, realizo **apuntes a mano** sobre algunas tecnologías que estuve aprendiendo.
+### Languages & Tools
 
-👩🏻‍🎨 Me gusta el diseño en general y trato de incorporarlo de alguna manera en todo lo que hago.
+- Swift
+- HTML
+- CSS
+- JavaScript / React
 
-🪄 Entre mis hobbies se encuentran: pintar macetas, crear playlist de Spotify, mirar torneos de surf, dibujar en CSS, leer biografías, sobre cosmología y básquet. 
+### Design Patterns & Concepts
 
-![! Diseño sin título (1) (httpsuser-images githubusercontent com55170175183476660-1af27c4c-a5e6-4da7-8690-2b797ab29f63 png)](https://user-images.githubusercontent.com/55170175/183477301-f5e949bb-f556-4173-b86f-26dc7e0eb137.png)
+- ✅ MVVM
+- ✅ MVC
+- ✅ Dependency Injection
+- ✅ SOLID Principles
 
-![Majo's GitHub stats](https://github-readme-stats.vercel.app/api?username=majoledesma&hide=contribs,prs&theme=buefy&show_icons=true)
+### Skills
 
-![! Diseño sin título (1) (httpsuser-images githubusercontent com55170175183476660-1af27c4c-a5e6-4da7-8690-2b797ab29f63 png)](https://user-images.githubusercontent.com/55170175/183477301-f5e949bb-f556-4173-b86f-26dc7e0eb137.png)
+- 📱 Swift - UIKit
+- 🔥 Firebase
+- ✨ Ditto
+- 🧪 Unit Testing
+- 🧪 UI Testing
+- 🌐 Backend-Driven UI
+- 📊 Looker Studio
+- 🎨 Styled Components
+- 📦 CocoaPods
+- 🚀 SwiftLint
+- 🔧 Jenkins (CI/CD)
+- 🤖 Jarvis
 
-## 🖤 Get in touch:
-* 🧚🏼Twitter: https://twitter.com/MajoLedes
-* 🧚🏼Instagram: https://instagram.com/los.apuntesdemajo
-* 🧚🏼CodePen: https://codepen.io/majoledesma
-* 🧚🏼Instagram Personal: https://instagram.com/majoledes
+### Additional Information
+
+🧞‍♀️ I also create **handwritten notes** on some of the technologies I’ve been learning. I share them at [Los Apuntes de Majo](http://losapuntesdemajo.now.sh).
+
+👩🏻‍🎨 I enjoy design in general and try to incorporate it into everything I do.
+
+🪄 My hobbies include painting pots, creating Spotify playlists, watching surfing tournaments, drawing in CSS, reading biographies, studying cosmology, and basketball.
+
+
+
+## Get in Touch
+
+- **Twitter:** [@MajoLedes](https://x.com/MajoLedes)  
+  Follow me on Twitter for updates and thoughts.
+
+- **Instagram (Notes):** [@los.apuntesdemajo](https://instagram.com/los.apuntesdemajo)  
+  Check out my notes and tech content.
+
+- **CodePen:** [majoledesma](https://codepen.io/majoledesma)  
+  Explore my CSS design projects and experiments.
+
+- **Instagram (Personal):** [@majoledes](https://instagram.com/majoledes)  
+  Connect with me on my personal Instagram.
+
 <!--
 **majoledesma/majoledesma** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
