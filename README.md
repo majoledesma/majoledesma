@@ -50,7 +50,10 @@ I have a strong inclination towards design and visual styling, which enhances my
 
 ## Get in Touch
 
-- **Twitter:** [@MajoLedes](https://x.com/MajoLedes)  
+- **LinkedIn:** [Maria José Ledesma](https://linkedin.com/in/maria-jose-ledesma2)  
+  Connect with me professionally on LinkedIn.
+
+- **X:** [@MajoLedes](https://x.com/MajoLedes)  
   Follow me on Twitter for updates and thoughts.
 
 - **Instagram (Notes):** [@los.apuntesdemajo](https://instagram.com/los.apuntesdemajo)  
