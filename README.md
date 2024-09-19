@@ -4,7 +4,7 @@
 
 ### About
 
-I'm a software developer with over 3 years of experience focusing on iOS development. I have worked extensively with UIKit and am currently learning SwiftUI. I am familiar with backend-driven UI and have a solid foundation in iOS native development using Swift. In addition to my iOS expertise, I also have experience as a web developer, particularly with Styled Components and React. This has allowed me to develop a well-rounded understanding of both mobile and web development and effectively apply best practices across different platforms.
+I'm a self-driven developer with over 3 years of experience focusing on iOS development. I have worked extensively with UIKit and am currently learning SwiftUI. I am familiar with backend-driven UI and have a solid foundation in iOS native development using Swift. In addition to my iOS expertise, I also have experience as a web developer, particularly with Styled Components and React. This has allowed me to develop a well-rounded understanding of both mobile and web development and effectively apply best practices across different platforms.
 
 I have a strong inclination towards design and visual styling, which enhances my ability to create aesthetically pleasing and user-friendly applications. My design skills include working with principles of visual hierarchy, color theory, and typography to ensure that user interfaces are not only functional but also visually appealing.
 
