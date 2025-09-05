@@ -19,13 +19,14 @@ I have a strong inclination towards design and visual styling, which enhances my
 ### Design Patterns & Concepts
 
 - ✅ MVVM
+- ✅ MVP
 - ✅ MVC
 - ✅ Dependency Injection
 - ✅ SOLID Principles
 
 ### Skills
 
-- 📱 Swift - UIKit
+- 📱 Swift - UIKit - SwiftUI
 - 🔥 Firebase
 - ✨ Ditto
 - 🧪 Unit Testing
@@ -44,7 +45,7 @@ I have a strong inclination towards design and visual styling, which enhances my
 
 👩🏻‍🎨 I enjoy design in general and try to incorporate it into everything I do.
 
-🪄 My hobbies include painting pots, creating Spotify playlists, watching surfing tournaments, drawing in CSS, reading biographies, studying cosmology, and basketball.
+🪄 My hobbies include painting pots, creating Spotify playlists, watching surfing tournaments, reading biographies, studying cosmology, and basketball.
 
 
 
